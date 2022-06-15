@@ -1,0 +1,16 @@
+D:\Важное\Работы\NET\project\CircularLinkedList\bin\Debug\net5.0\CircularLinkedList.exe
+D:\Важное\Работы\NET\project\CircularLinkedList\bin\Debug\net5.0\CircularLinkedList.deps.json
+D:\Важное\Работы\NET\project\CircularLinkedList\bin\Debug\net5.0\CircularLinkedList.runtimeconfig.json
+D:\Важное\Работы\NET\project\CircularLinkedList\bin\Debug\net5.0\CircularLinkedList.runtimeconfig.dev.json
+D:\Важное\Работы\NET\project\CircularLinkedList\bin\Debug\net5.0\CircularLinkedList.dll
+D:\Важное\Работы\NET\project\CircularLinkedList\bin\Debug\net5.0\CircularLinkedList.pdb
+D:\Важное\Работы\NET\project\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.csproj.AssemblyReference.cache
+D:\Важное\Работы\NET\project\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Важное\Работы\NET\project\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.AssemblyInfoInputs.cache
+D:\Важное\Работы\NET\project\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.AssemblyInfo.cs
+D:\Важное\Работы\NET\project\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.csproj.CoreCompileInputs.cache
+D:\Важное\Работы\NET\project\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.dll
+D:\Важное\Работы\NET\project\CircularLinkedList\obj\Debug\net5.0\refint\CircularLinkedList.dll
+D:\Важное\Работы\NET\project\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.pdb
+D:\Важное\Работы\NET\project\CircularLinkedList\obj\Debug\net5.0\CircularLinkedList.genruntimeconfig.cache
+D:\Важное\Работы\NET\project\CircularLinkedList\obj\Debug\net5.0\ref\CircularLinkedList.dll
